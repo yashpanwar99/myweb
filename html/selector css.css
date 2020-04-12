@@ -1,0 +1,22 @@
+div {
+    background-color: rgb(127, 216, 174);
+    font-style: italic;
+    stroke: crimson;
+    text-align: center;
+}
+p {
+    background-color: rgb(174, 223, 110);
+    text-decoration: rgb(255, 1, 1);
+    text-rendering: optimizeSpeed;
+    text-align: end;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    background-color: deepskyblue;
+}
+#yp {
+    background-color: firebrick;
+}
