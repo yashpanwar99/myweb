@@ -1,0 +1,18 @@
+h3 + div {
+    background-color: red;
+}
+
+div + p {
+    background-color: seagreen;
+}
+
+h3 ~ p {
+    background-color: slateblue;
+}
+
+section > div {
+    background-color: tomato;
+}
+ section p {
+     background-color: skyblue;
+ }
