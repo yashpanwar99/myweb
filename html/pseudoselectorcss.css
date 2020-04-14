@@ -1,0 +1,28 @@
+.box {
+    height: 100px;
+    width: 600px;
+    background-color: teal;
+    padding: 20px;
+    color: tomato;
+    font-size: 30px;
+}
+
+.box:hover {
+    background-color: rgb(196, 16, 16);
+    color: rgb(23, 182, 155);
+    font-weight: bolder;
+}
+
+.box:active{
+    font-style: italic;
+}
+
+input:focus{
+    font-size: 70px;
+    width: 600px;
+    background-color: dodgerblue;
+    
+}
+* {
+    background-color: darksalmon;
+}
