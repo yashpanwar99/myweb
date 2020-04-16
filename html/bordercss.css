@@ -1,0 +1,34 @@
+*{
+    background-color: crimson;
+    font-style: oblique;
+    font-weight: bolder;
+
+}
+.box{
+    padding: 20px;
+    margin: 40px;
+    border:solid black 5px;
+    background-color: cadetblue;
+}
+#id1 {
+    background-color: darkturquoise;
+    text-align: center;
+}
+
+#id2 {
+    background-color: teal;
+}
+
+#id3 {
+    background-color: mediumspringgreen;
+
+}
+#id3:hover {
+    background-color: rgb(194, 50, 230);
+}
+#id1:hover {
+    background-color: lawngreen;
+}
+#id2:hover {
+    background-color: coral;
+}
