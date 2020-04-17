@@ -1,0 +1,98 @@
+*{
+    background-color: rgb(205, 243, 243);
+    border:solid black 4px;
+}
+p {
+    font-weight: bolder;
+    text-align: center;
+    font-size: xx-large;
+    border: dotted black 5px;
+    fo
+}
+#div1 {
+    height: 70px;
+    width: 70px;
+    margin: 50px;
+    padding: 10px;
+    border:dashed black 5px;
+    background-color: orange;
+    transform: translate(30px, -30px); 
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 200px;
+}
+#div2 {
+    height: 80px;
+    width: 80px;
+    margin: 100px;
+    margin-left: 150px;
+    background-color: royalblue;
+    transform: translate(54px, -65px);
+    font-weight: bolder;
+    text-decoration: dashed; 
+    text-align: center;
+    border: double red 5px;
+}
+#div3 {
+    height: 70px;
+    width: 70px;
+    margin: 150px;
+    background-color: rgb(28, 224, 94);
+    transform: rotateX(60px, -69px); 
+}
+#div4 {
+    height: 70px;
+    width: 70px;
+    margin: 150px;
+    background-color: rgb(225, 0, 255);
+    transform: translate(30px, -30px); 
+     
+}
+#div5 {
+    height: 70px;
+    width: 70px;
+    margin: 150px;
+    background-color: rgb(35, 144, 216);
+    transform: translate(30px, -30px); 
+     
+}
+#div6 {
+    height: 70px;
+    width: 70px;
+    margin: 150px;
+    background-color: rgb(255, 136, 25);
+    transform: scale(0.5)
+     
+}
+#div7 {
+    height: 70px;
+    width: 70px;
+    margin: 150px;
+    background-color: rgb(255, 138, 60);
+    transform: skew(0deg, 0)
+    
+}
+#div8 {
+    height: 70px;
+    width: 70px;
+    margin: 150px;
+    background-color: rgb(238, 49, 16);
+    transform: scaleY(-0.5)
+    
+}
+#div9 {
+    height: 70px;
+    width: 70px;
+    margin: 150px;
+    background-color: rgb(219, 75, 171);
+    transform: rotateX(120deg)
+    
+}
+#div10 {
+    height: 70px;
+    width: 70px;
+    margin: 150px;
+    background-color: lightgreen;
+    transform: translateX(30px)
+    
+}
