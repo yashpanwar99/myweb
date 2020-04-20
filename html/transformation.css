@@ -7,7 +7,6 @@ p {
     text-align: center;
     font-size: xx-large;
     border: dotted black 5px;
-    fo
 }
 #div1 {
     height: 70px;
@@ -27,7 +26,7 @@ p {
     margin: 100px;
     margin-left: 150px;
     background-color: royalblue;
-    transform: translate(54px, -65px);
+    transform: rotateY(60deg); 
     font-weight: bolder;
     text-decoration: dashed; 
     text-align: center;
@@ -38,7 +37,7 @@ p {
     width: 70px;
     margin: 150px;
     background-color: rgb(28, 224, 94);
-    transform: rotateX(60px, -69px); 
+    transform: rotate(60deg); 
 }
 #div4 {
     height: 70px;
@@ -53,7 +52,7 @@ p {
     width: 70px;
     margin: 150px;
     background-color: rgb(35, 144, 216);
-    transform: translate(30px, -30px); 
+    transform: translate(350px, -30px); 
      
 }
 #div6 {

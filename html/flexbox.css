@@ -1,0 +1,29 @@
+.container{
+    background-color: lightcoral;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* flex-shrink: initial; */
+    /* flex-basis: inherit; */
+    align-items: center;
+    /* align-content: space-around; */
+    /* justify-content: space-between; */
+    flex-direction: row;
+}
+
+.class1{
+    margin: 50px;
+    height: 80px;
+    width: 80px;
+    padding: 50px;
+    background-color: rgb(27, 150, 187);
+    font-weight: bolder;
+    color: gold;
+    font-size: 30px;
+    border: solid black 5px;
+    flex-shrink: 1;
+
+}
+#id2{
+    align-self: flex-end;
+}
